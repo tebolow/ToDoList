@@ -47,6 +47,7 @@
    </property>
    <property name="font">
     <font>
+     <family>Times New Roman</family>
      <pointsize>22</pointsize>
     </font>
    </property>
@@ -54,6 +55,26 @@
     <string>Enter your task</string>
    </property>
   </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>800</width>
+     <height>600</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>media/light_background.jpg</pixmap>
+   </property>
+  </widget>
+  <zorder>label_2</zorder>
+  <zorder>taskName</zorder>
+  <zorder>done</zorder>
+  <zorder>label</zorder>
  </widget>
  <resources/>
  <connections/>
