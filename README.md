@@ -12,6 +12,14 @@ This is a simple To-Do application built with PyQt6, which allows users to manag
 - **Switch Themes**: Toggle between light and dark themes.
 - **Save and Load**: Tasks are saved to a text file and loaded when the application starts.
 
+## Screenshots
+
+![Main Window Light Mode](media/screenshots/MainWindow_light_mode.png)  
+![Main Window Dark Mode](media/screenshots/MainWindow_dark_mode.png)  
+![Card View Light Mode](media/screenshots/card_light_mode.png)
+![Card View dark Mode](media/screenshots/card_dark_mode.png)
+
+
 ## Installation
 
 1. **Clone the Repository**
